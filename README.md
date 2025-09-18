@@ -75,3 +75,9 @@ coverage report
 coverage html
 ```
 Abra o arquivo `htmlcov/index.html` no navegador.
+
+---
+
+## Relatório de Testes
+
+Um resumo da execução está em [`relatorio.md`](relatorio.md).
